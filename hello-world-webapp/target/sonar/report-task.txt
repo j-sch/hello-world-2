@@ -1,0 +1,7 @@
+organization=j-sch-github
+projectKey=j-sch_hello-world-2
+serverUrl=https://sonarcloud.io
+serverVersion=7.8.0.23906
+dashboardUrl=https://sonarcloud.io/dashboard?id=j-sch_hello-world-2
+ceTaskId=AWpa1Bufqdengcc13WCw
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWpa1Bufqdengcc13WCw
